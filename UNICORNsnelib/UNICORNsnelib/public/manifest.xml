@@ -1,0 +1,15 @@
+<PluginManifest FormatVersion="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PluginManifest.xsd">
+  <PluginName>UNICORNSocialNetworkExtension</PluginName>
+  <PluginVersion>0.0.0.3</PluginVersion>
+  <PluginFileName>UNICORNSocialNetworkExtension.dll</PluginFileName>
+  <IconFile></IconFile>
+  <HelpFile></HelpFile>
+  <PluginPresentation Type="Text">
+    <Presentation><![CDATA[This is an extension for training purposes. 
+Preview version, not verified, only for preview use. 
+Please read the license agreement.]]></Presentation>
+  </PluginPresentation>
+  <Contracts>
+    <Contract Name="InstrumentServer_1.0" ApplicationName="InstrumentServer"></Contract>
+  </Contracts>
+</PluginManifest>
