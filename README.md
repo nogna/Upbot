@@ -2,6 +2,9 @@
 
 This was made as a bachelor project. 
 
+Taken from the report:
+
+Abstract:
 Being able to access information from process monitoring systems
 mobile is a great advantage. Today there are several solutions to this,
 for example using email or applications. However, these solutions are
